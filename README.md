@@ -15,6 +15,7 @@ Perfect for developers, Discord bots, trading websites, value lists, and collect
 This repository contains **PNG** images of every **Flee the Facility** Set, organized by rarity.
 
 ```text
+Elusives/
 Legendaries/
 Epics/
 Rares/
